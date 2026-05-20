@@ -279,8 +279,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Shiyu]
-  first_name: [Fan, F.]
+  last_name: [Fan]
+  first_name: [Shiyu, S.]
 
   style: apa
   locale: en
