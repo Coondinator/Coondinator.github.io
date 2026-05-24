@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: s.fan.1@research.gla.ac.uk
 
 profile:
   align: right
@@ -26,7 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently a fourth-year Ph.D. student at the University of Glasgow. My primary research focuses on character animation generation and control in computer graphics. I also occasionally work on research related to embodied intelligence. My supervisors are Edmond Ho and Paul Henderson.
+I am currently a fourth-year Ph.D. student at the University of Glasgow, in computing science. My primary research focuses on character animation generation and control in computer graphics. I also occasionally work on research related to embodied intelligence. My supervisors are Dr. Edmond Ho and Dr. Paul Henderson.
+
+I have long served as a reviewer for journals and conferences such as CGF, Eurographics, and IJCV. I also served as an Area Chair member for BMVC 2024/2025. 
+
+I am a fan of role-playing games and classical piano solo performances. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
