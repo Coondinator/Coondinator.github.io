@@ -31,11 +31,3 @@ I am currently a fourth-year Ph.D. student at the University of Glasgow, in comp
 I have long served as a reviewer for journals and conferences such as CGF, Eurographics, and IJCV. I also served as an Area Chair member for BMVC 2024/2025. 
 
 I am a fan of role-playing games and classical piano solo performances. 
-
-![Image caption](/assets/img/person.jpeg)
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
